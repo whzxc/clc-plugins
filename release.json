@@ -1,8 +1,8 @@
 {
-  "version": "0.8.17",
-  "sourceCommit": "f154f3fc6ae386f2b4a33717263aac4236302650",
+  "version": "0.8.18",
+  "sourceCommit": "2bb30a9b91f677d9022a131b7e51494b5f70910d",
   "binaries": {
-    "darwin-aarch64": "8c45cf9ce30216661d911381b2e403cc8d25d7946b1840a8df60a7e368665493",
-    "windows-x86_64": "0cde65651892568d773e76a277b0aecd74a778a629b8b630be06ea38c4ee7a3a"
+    "darwin-aarch64": "79dae5d5d8a31333e64bbb388416aabaa62e7e2bf16083a0f3ffac245170ecfa",
+    "windows-x86_64": "33b0b0f91f72fcd9492cfb078bbecfd006744186f587f2c8a1eed634557c9564"
   }
 }
