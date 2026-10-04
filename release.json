@@ -1,0 +1,8 @@
+{
+  "version": "0.8.16",
+  "sourceCommit": "431691b3908bab21b9920172944f14e5fd5cba41",
+  "binaries": {
+    "darwin-aarch64": "00df38dc3debe057c8669b0e717c3470929029605952e43fca73b27e20e972bf",
+    "windows-x86_64": "50e9683fe34269e0bc5aa112ef6f6266d7d5332949e1c6c8e96ebf8aeba99c02"
+  }
+}
